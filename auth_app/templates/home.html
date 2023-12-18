@@ -1,0 +1,5 @@
+{% extends "base.html" %} {% block body_block %}
+<h1>This is A Auth Application</h1>
+{% if messages %} {% for message in messages %}
+<p class="bg-success p-3 text-white">{{message}}</p>
+{% endfor %} {% endif %} {% endblock %}

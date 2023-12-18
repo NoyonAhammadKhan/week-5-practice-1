@@ -1,0 +1,15 @@
+﻿Practice Day 1
+
+
+Marks : 10
+
+
+Make an authentication system by your own where
+1. Add a bootstrap navbar where there will be Sign Up and Login for unauthenticated users and Profile and Logout for authenticated users
+2. A user can create an account
+3. Can login to his account and after login redirect the user to his/her profile and show message “Logged In Successfully”
+4. Can logout and after logout showed the message in the home page “Logged Out Successfully”
+5. An authenticated user can only change his password with and without previous password
+
+
+NB: At first try it by yourself without using the module code
